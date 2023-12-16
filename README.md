@@ -1,4 +1,4 @@
-### Documentation for Password Generator Project
+### Password Generator
 
 This documentation covers the Password Generator project, which consists of three C source files (`password_generator.h`, `password_generator.c`, `main.c`) and a `Makefile`. The project is designed to generate passwords with optional inclusion of special characters and capital letters.
 
